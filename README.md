@@ -18,6 +18,6 @@ Comments
 ### Phase 90
 <img src="https://raw.githubusercontent.com/t-christison/guitar-pedals/dev/phase-90/phase-90-script.jpg" alt="MXR Phase 90" width="250">
 
-##References
-[Electrosmash Circuit Analysis](https://www.electrosmash.com/)
-[DIY Pedal Etching](https://diy-guitar-effects.tumblr.com/etching)
+##References  
+[Electrosmash Circuit Analysis](https://www.electrosmash.com/)  
+[DIY Pedal Etching](https://diy-guitar-effects.tumblr.com/etching)  
